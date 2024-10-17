@@ -2,7 +2,7 @@
 <html>
 <head>
 <body>
-  <h1>SQL Projects and Case Studies</h1>
+  <h1>SQL Case Studies</h1>
   <h2>Repository Contents</h2>
   <p>This repository contains a collection of SQL projects and case studies, including:</p>
   <ul>
