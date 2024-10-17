@@ -16,7 +16,7 @@
     <li><a href="#project2">Project 2: Google Play store Analysis</a>:</li>
     <li><a href="#project3">Project 3: Shark Tank India</a>.</li>
     <li><a href="#project3">Project 3: Swiggy Dataset</a></li>
-    <li><a href="#project3">Project 3: Indian Tourism Dataset</a></li>
+    <li><a href="#project3">Project 3: Miscelleneous</a></li>
   </ul>
   <h2>Getting Started</h2>
   <p>To get started with this repository, simply clone or download the repository and explore the contents. You can use the SQL code and data sets to practice and learn from the projects and case studies.</p>
